@@ -35,6 +35,18 @@ public class A
 	}
 	
 	
+	private void sum() 
+	{
+		
+		System.out.println(" Sum of A 401 ");
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+	
+	
+	
 	
 	
 	
